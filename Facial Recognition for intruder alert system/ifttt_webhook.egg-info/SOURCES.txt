@@ -1,0 +1,6 @@
+setup.py
+ifttt_webhook.egg-info/PKG-INFO
+ifttt_webhook.egg-info/SOURCES.txt
+ifttt_webhook.egg-info/dependency_links.txt
+ifttt_webhook.egg-info/requires.txt
+ifttt_webhook.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: ifttt-webhook
+Version: 0.1.0
+Summary: A Python module to trigger IFTTT events using webhooks.
+Home-page: https://github.com/DrGFreeman/IFTTT-Webhook
+Author: Julien de la Bruère-Terreault
+Author-email: drgfreeman@tuta.io
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
